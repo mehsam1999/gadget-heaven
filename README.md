@@ -2,11 +2,6 @@
 
 Gadget Heaven
 
-## Requirement Document Link  
-
-```bash
-  https://drive.google.com/file/d/1z-UAy7_5RwZx78zzacaKFnQ_IymZ_m7O/view?usp=sharing
-```
 
 ## Live Website Link 
 
