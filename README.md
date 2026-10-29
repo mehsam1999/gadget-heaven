@@ -6,7 +6,7 @@ Gadget Heaven
 ## Live Website Link 
 
 ```bash
-  https://gadget-heaven-ltd.surge.sh
+  https://gadget-heaven-nine.vercel.app
 ```
 
 # List of React Fundamental concepts used in this project 
